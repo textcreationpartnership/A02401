@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A doleful discourse and ruthfull reporte of the greate spoyle and lamentable losse, by fire, in the 
+
+1. ¶TO MY DEARE FRIENDE AND CHRIſtian Brother, Richard Atlee, Inhabitant of the deſolat Towne of Eaſtdearham, and to his vertuous wife, Alice Atlee: ARTHVR GVRNEY wiſſheth proſperitie, and all good thinges, in CHRIST IESV.
+
 #####Body#####
-A doleful discourse and ruthfull reporte of the greate spoyle and lamentable losse, by fire, in the 
+
+1. ¶A LAMENTABLE DISCOVRSE of the Spoyle of Eaſt DEARHAM.
+
 **Types of content**
 
   * There are 345 **verse** lines!
